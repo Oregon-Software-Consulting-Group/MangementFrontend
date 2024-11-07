@@ -1,4 +1,7 @@
 import api from './api'
+import './index.css'
+
+// TODO: add sorting/filtering query parameters
 
 const tbody = document.querySelector('tbody')
 try {
