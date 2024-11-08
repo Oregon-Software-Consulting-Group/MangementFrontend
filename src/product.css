@@ -1,3 +1,7 @@
+button {
+    margin-bottom: 10px;
+}
+
 table {
     border-collapse: collapse;
     border: 2px solid rgb(140 140 140);
